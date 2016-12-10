@@ -6,7 +6,4 @@
     RedShift
     Atom Terminal Gnome
     Chrome + Ublock + Momemtum
-<<<<<<< HEAD
     test
-=======
->>>>>>> master
